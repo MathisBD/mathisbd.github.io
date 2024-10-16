@@ -1,3 +1,5 @@
+.PHONY: all, deploy
+
 # Build the website. The output goes in docs/.
 all:
 	stack build
