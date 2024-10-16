@@ -6,6 +6,7 @@ all:
 # Copy the website (docs/ folder) to the master branch and push.
 deploy: all
 # Go to the master branch.
+	git stash
 	git checkout master
 # Copy the docs folder and the .gitignore.
 	git checkout dev -- docs .gitignore
@@ -15,3 +16,4 @@ deploy: all
 	git push
 # Return the the dev branch.
 	git checkout dev
+	git stash pop
