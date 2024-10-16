@@ -3,6 +3,7 @@
 
 import Hakyll
 
+-- Global configuration options.
 config :: Configuration
 config =
   defaultConfiguration
