@@ -13,8 +13,8 @@ deploy: all
 	git push
 # Go to the master branch.
 	git checkout master
-# Copy the docs folder and .gitignore.
-	git checkout dev -- docs .gitignore
+# Copy the docs folder and some other files.
+	git checkout dev -- docs .gitignore LICENSE
 # Add everything and commit.
 	git add --all
 	git commit --allow-empty -m "Publish"
