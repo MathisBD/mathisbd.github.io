@@ -9,7 +9,7 @@ all:
 deploy: all
 # Commit the current dev branch.
 	git add --all
-	git commit -m "Publish"
+	git commit --allow-empty -m "Publish"
 	git push
 # Go to the master branch.
 	git checkout master
@@ -17,7 +17,7 @@ deploy: all
 	git checkout dev -- docs .gitignore
 # Add everything and commit.
 	git add --all
-	git commit -m "Publish"
+	git commit --allow-empty -m "Publish"
 	git push
 # Return the the dev branch.
 	git checkout dev
