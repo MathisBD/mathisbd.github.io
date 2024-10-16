@@ -8,6 +8,7 @@ deploy: all
 # Commit the current dev branch.
 	git add --all
 	git commit -m "Publish"
+	git push
 # Go to the master branch.
 	git checkout master
 # Copy the docs folder and the .gitignore.
