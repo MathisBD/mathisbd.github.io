@@ -19,23 +19,15 @@ stack exec mathisbd-blog rebuild
 # existing master branch.
 git checkout -B master --track origin/master
 
-# Override the existing files in master with the fresh output.
-rsync -a --filter='P _site/'      \
-         --filter='P _cache/'     \
-         --filter='P .git/'       \
-         --filter='P .gitignore'  \
-         --filter='P .stack-work' \
-         --delete-excluded        \
-         _site/ .
 
 # Commit.
-git add -A
-git commit -m "Publish"
-
-# Push.
-git push --set-upstream origin master
-
-# Restore state of repo.
-git checkout dev
-git branch -D master
-git stash pop
+#git add -A
+#git commit -m "Publish"
+#
+## Push.
+#git push --set-upstream origin master
+#
+## Restore state of repo.
+#git checkout dev
+#git branch -D master
+#git stash pop
