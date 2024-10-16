@@ -6,6 +6,6 @@ title: Contact
 
 <i class="fab fa-github"></i> &nbsp; [Github](https://github.com/MathisBD)
 
-<i class="fa fa-envelope"></i> &nbsp; mathis [at] bouverot [dot] ens [dot] psl [dot] eu
+<i class="fa fa-envelope"></i> &nbsp; mathis [dot] bouverot [at] ens [dot] psl [dot] eu
 
 Feel free to drop me an email !

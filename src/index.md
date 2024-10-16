@@ -9,7 +9,7 @@ Previously I worked on compiling functional languages to GPUs with [Mary Sheeran
 # News
 
 - I started an internship with [Yannick Forster][yannick-forster] in September 2024, working on metaprogramming in proof assistants based on dependent type theory.     
-- From March to August 2024 I did my Master's internship with [Benjamin Werner][benjamin-werner]. We worked on [Actema][actema-website], a graphical user interface for Coq based on a drag-and-drop formalism. Take a look at [this paper][actema-paper] for more details on Actema.
+- From March to August 2024 I did my Master's internship with [Benjamin Werner][benjamin-werner]. We worked on Actema ([try it][actema-website] !), a graphical user interface for Coq based on a drag-and-drop formalism. Take a look at [this paper][actema-paper] for more details on Actema.
 
 [ens]: https://www.ens.psl.eu/
 [inria]: https://en.wikipedia.org/wiki/French_Institute_for_Research_in_Computer_Science_and_Automation
