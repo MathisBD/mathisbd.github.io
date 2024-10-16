@@ -3,6 +3,7 @@ build:
 	stack build
 	stack exec mathisbd-blog rebuild
 
+# Copy the website (docs/ folder) to the master branch and push.
 deploy: build
 # Go to the master branch.
 	git checkout master
