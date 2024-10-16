@@ -1,13 +1,10 @@
-# Created by https://www.toptal.com/developers/gitignore/api/haskell
-# Edit at https://www.toptal.com/developers/gitignore?templates=haskell
+# Created by https://www.gitignore.io/api/haskell
 
 ### Haskell ###
 dist
-dist-*
 cabal-dev
 *.o
 *.hi
-*.hie
 *.chi
 *.chs.h
 *.dyn_o
@@ -19,11 +16,6 @@ cabal.sandbox.config
 *.prof
 *.aux
 *.hp
-*.eventlog
 .stack-work/
-cabal.project.local
-cabal.project.local~
-.HTF/
-.ghc.environment.*
-
-# End of https://www.toptal.com/developers/gitignore/api/haskell
+_cache/
+_site/
