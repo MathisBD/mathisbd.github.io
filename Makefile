@@ -14,7 +14,7 @@ deploy: all
 # Go to the master branch.
 	git checkout master
 # Copy the docs folder and some other files.
-	git checkout dev -- docs .gitignore LICENSE
+	git checkout dev -- docs .gitignore LICENSE README.md
 # Add everything and commit.
 	git add --all
 	git commit --allow-empty -m "Publish"
