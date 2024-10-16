@@ -3,9 +3,11 @@ all:
 	stack build
 	stack exec mathisbd-blog rebuild
 
-# Copy the website (docs/) to the master branch and push.
-# Uses the last commited version of docs/.
+# Build the website, copy docs/ to the master branch and push.
 deploy: all
+# Commit the current dev branch.
+	git add --all
+	git commit -m "Publish"
 # Go to the master branch.
 	git checkout master
 # Copy the docs folder and the .gitignore.
