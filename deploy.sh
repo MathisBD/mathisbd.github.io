@@ -13,7 +13,7 @@ stack build
 stack exec mathisbd-blog rebuild
 
 # Make sure local repo is up to date.
-git fetch --all
+#git fetch --all
 
 # Go to master branch - create one if it doesn't exist, otherwise reset the
 # existing master branch.
