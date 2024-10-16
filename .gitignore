@@ -19,4 +19,4 @@ cabal.sandbox.config
 .stack-work/
 _cache/
 _site/
-_docs/
+docs/
