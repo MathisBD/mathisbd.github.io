@@ -8,6 +8,7 @@ all:
 # Build the website, copy docs/ to the master branch and push.
 deploy: all
 # Commit the current dev branch.
+	git checkout dev
 	git add --all
 	git commit --allow-empty -m "Publish"
 	git push
