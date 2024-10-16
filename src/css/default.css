@@ -1,18 +1,67 @@
-div {
-    border: 1px black dashed;
+/* --------------------------------------------------------------------- */
+/* Common rules */
+/* --------------------------------------------------------------------- */
+
+a {
+    text-decoration: none;
 }
+
+/* --------------------------------------------------------------------- */
+/* My picture */
+/* --------------------------------------------------------------------- */
 
 #avatar {
-    width: 90%;
+    max-width: 90%;
     height: auto;
+    border-radius: 50%;
 }
 
-#footer {
-    background-color: rgb(206, 203, 203);
-    border-top: 1px rgb(212, 212, 212) solid;
-    min-height: 80px;
+/* --------------------------------------------------------------------- */
+/* Navigation bar */
+/* --------------------------------------------------------------------- */
 
+#navigation ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#navigation li a {
+    display: block;
+    align-self: center;
+    width: 70%;
+    padding: 5px 15px;
+    margin: 0px 15%;
+
+    color: inherit;
+    background-color: rgb(235, 235, 235);
+}
+
+/* Highlight elements on hover. */
+#navigation li a:hover {
+    background-color: gray;
+    color: white;
+}
+
+/* --------------------------------------------------------------------- */
+/* Content */
+/* --------------------------------------------------------------------- */
+
+#main-container {
+    margin-top: 30px;
+    border-top: 1px lightgray solid;
+}
+
+/* --------------------------------------------------------------------- */
+/* Footer */
+/* --------------------------------------------------------------------- */
+
+#footer {
     display: flex;
     align-items: center;
     text-align: center;
+    min-height: 80px;
+
+    border-top: 1px lightgray solid;
+    background-color: rgb(235, 235, 235);
 }

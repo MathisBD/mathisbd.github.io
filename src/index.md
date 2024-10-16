@@ -1,12 +1,12 @@
 ---
-title: Home
+title: About me
 ---
 
 I am a 4-th year computer science student at [ENS Paris][ens], currently doing an internship at [Inria][inria] in the [Cambium team][cambium].
 
 # News
 
-- I started an internship with [Yannick Forster][yannick-forster] in September 2024, working on metaprogramming in interactive proof assistants (mainly Coq and Lean).     
+- I started an internship with [Yannick Forster][yannick-forster] in September 2024, working on metaprogramming in proof assistants (mainly Coq and Lean).     
 - From March to August 2024 I did my Master's internship with [Benjamin Werner][benjamin-werner]. We worked on [Actema][actema-website], a graphical user interface for Coq based on a drag-and-drop formalism. Take a look at [this paper][actema-paper] for more details on Actema.
 
 [ens]: https://www.ens.psl.eu/
