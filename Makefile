@@ -1,10 +1,10 @@
 # Build the website. The output goes in docs/.
-build:
+all:
 	stack build
 	stack exec mathisbd-blog rebuild
 
 # Copy the website (docs/ folder) to the master branch and push.
-deploy: build
+deploy: all
 # Go to the master branch.
 	git checkout master
 # Copy the docs folder and the .gitignore.
