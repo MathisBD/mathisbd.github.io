@@ -1,0 +1,67 @@
+/* --------------------------------------------------------------------- */
+/* Common rules */
+/* --------------------------------------------------------------------- */
+
+a {
+    text-decoration: none;
+}
+
+/* --------------------------------------------------------------------- */
+/* My picture */
+/* --------------------------------------------------------------------- */
+
+#avatar {
+    max-width: 90%;
+    height: auto;
+    border-radius: 50%;
+}
+
+/* --------------------------------------------------------------------- */
+/* Navigation bar */
+/* --------------------------------------------------------------------- */
+
+#navigation ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#navigation li a {
+    display: block;
+    align-self: center;
+    width: 70%;
+    padding: 5px 15px;
+    margin: 0px 15%;
+
+    color: inherit;
+    background-color: rgb(235, 235, 235);
+}
+
+/* Highlight elements on hover. */
+#navigation li a:hover {
+    background-color: gray;
+    color: white;
+}
+
+/* --------------------------------------------------------------------- */
+/* Content */
+/* --------------------------------------------------------------------- */
+
+#main-container {
+    margin-top: 30px;
+    border-top: 1px lightgray solid;
+}
+
+/* --------------------------------------------------------------------- */
+/* Footer */
+/* --------------------------------------------------------------------- */
+
+#footer {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    min-height: 80px;
+
+    border-top: 1px lightgray solid;
+    background-color: rgb(235, 235, 235);
+}
