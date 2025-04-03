@@ -2,7 +2,7 @@
 title: About me
 ---
 
-I am a 4-th year computer science student at [ENS Paris][ens], currently doing an internship at [Inria Saclay][inria-saclay] in [Deducteam][deducteam]. I'm interested in pushing the automation aspect of proof assistants such as [Rocq][rocq], Agda[agda], and [Lean][lean]. 
+I am a 4-th year computer science student at [ENS Paris][ens], currently doing an internship at [Inria Saclay][inria-saclay] in [Deducteam][deducteam]. I'm interested in pushing the automation aspect of proof assistants such as [Rocq][rocq], [Agda][agda], and [Lean][lean]. 
 
 # News
 
