@@ -2,22 +2,21 @@
 title: About me
 ---
 
-I am a 4-th year computer science student at [ENS Paris][ens], currently doing an internship at [Inria][inria] in the [Cambium team][cambium]. I'm interested in pushing the automation aspect of proof assistants such as [Coq][coq] or [Lean][lean]. 
-
-Previously I worked on compiling functional languages to GPUs with [Mary Sheeran][mary-sheeran] in Gothenburg.
+I am a 4-th year computer science student at [ENS Paris][ens], currently doing an internship at [Inria Saclay][inria-saclay] in [Deducteam][deducteam]. I'm interested in pushing the automation aspect of proof assistants such as [Rocq][rocq], Agda[agda], and [Lean][lean]. 
 
 # News
 
-- I started an internship with [Yannick Forster][yannick-forster] in September 2024, working on metaprogramming in proof assistants based on dependent type theory.     
-- From March to August 2024 I did my Master's internship with [Benjamin Werner][benjamin-werner]. We worked on Actema ([try it][actema-website] !), a graphical user interface for Coq based on a drag-and-drop formalism. Take a look at [this paper][actema-paper] for more details on Actema.
+- I will start a PhD with [Yannick Forster][yannick-forster] and [François Pottier][françois-pottier] around September 2025, working on meta-programming in proof assistants (mainly Rocq).     
+- I started an internship with [Théo Winterhalter][théo-winterhalter] in March 2025, working on [autosubst][autosubst-paper].
 
 [ens]: https://www.ens.psl.eu/
-[inria]: https://en.wikipedia.org/wiki/French_Institute_for_Research_in_Computer_Science_and_Automation
-[cambium]: https://cambium.inria.fr/
-[coq]: https://coq.inria.fr/
+[inria-saclay]: https://www.inria.fr/fr/centre-inria-de-saclay
+[deducteam]: https://deducteam.gitlabpages.inria.fr/
+[rocq]: https://rocq-prover.org/
 [lean]: https://lean-lang.org/
+[agda]: https://agda.readthedocs.io/en/latest/getting-started/what-is-agda.html
+[autosubst-paper]: https://dl.acm.org/doi/10.1145/3293880.3294101
 [mary-sheeran]: https://www.cse.chalmers.se/~ms/
 [yannick-forster]: https://yforster.de/
-[benjamin-werner]: https://www.lix.polytechnique.fr/Labo/Benjamin.Werner/
-[actema-website]: https://www.actema.xyz/?goal=U29jcmF0ZXM6KCksIEh1bWFuOjooKSwgTW9ydGFsOjooKTsgSHVtYW4oU29jcmF0ZXMpLCBmb3JhbGwgeDooKS4gSHVtYW4oeCkgLT4gTW9ydGFsKHgpIHwtIE1vcnRhbChTb2NyYXRlcyk%3D
-[actema-paper]: https://dl.acm.org/doi/10.1145/3497775.3503692
+[théo-winterhalter]: https://theowinterhalter.github.io/
+[françois-pottier]: https://pauillac.inria.fr/~fpottier/ 
