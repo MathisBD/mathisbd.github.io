@@ -6,6 +6,7 @@ I am a 4-th year computer science student at [ENS Paris][ens], currently doing a
 
 # News
 
+- The [preprint][metaprog-paper] for my survey of meta-programming in proof assistants (with Yannick Forster) is up on HAL.
 - I will start a PhD with [Yannick Forster][yannick-forster] and [François Pottier][françois-pottier] around September 2025, working on meta-programming in proof assistants (mainly Rocq).     
 - I started an internship with [Théo Winterhalter][théo-winterhalter] in March 2025, working on [autosubst][autosubst-paper].
 
@@ -20,3 +21,4 @@ I am a 4-th year computer science student at [ENS Paris][ens], currently doing a
 [yannick-forster]: https://yforster.de/
 [théo-winterhalter]: https://theowinterhalter.github.io/
 [françois-pottier]: https://pauillac.inria.fr/~fpottier/ 
+[metaprog-paper]: https://hal.science/hal-05024207

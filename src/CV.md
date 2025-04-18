@@ -3,7 +3,7 @@ title: Short CV
 ---
 
 - Spring 2025: Internship with [Théo Winterhalter][théo-winterhalter], designing a reflective simplification tactic for [autosubst][autosubst-paper].
-- Fall 2024: Internship with [Yannick Forster][yannick-forster]. We performed a survey of meta-programming in proof assistants (Rocq, Agda, and Lean), using a case study as basis for comparison.
+- Fall 2024: Internship with [Yannick Forster][yannick-forster]. We performed a [survey][metaprog-paper] of meta-programming in proof assistants (Rocq, Agda, and Lean), using a case study as basis for comparison.
 - 2024: Master's degree in computer science at [MPRI][mpri]
 - Spring 2024: Internship with [Benjamin Werner][benjamin-werner]. We worked on [Actema][actema-paper], a graphical user interface for Rocq based on drag-and-drop actions.
 - Spring 2023: Internship with [Mary Sheeran][mary-sheeran]. We worked on compiling functional languages to the GPU -- such as [Futhark][futhark] -- and published a [workshop paper][gpu-paper] together.
@@ -19,3 +19,4 @@ title: Short CV
 [autosubst-paper]: https://dl.acm.org/doi/10.1145/3293880.3294101
 [actema-paper]: https://dl.acm.org/doi/10.1145/3497775.3503692
 [gpu-paper]: https://dl.acm.org/doi/10.1145/3609024.3609411
+[metaprog-paper]: https://hal.science/hal-05024207
