@@ -7,7 +7,7 @@ in the [Rocq][rocq] proof assistant. In particular I want to enable verifying me
 
 # News
 
-- The [preprint][metaprog-paper] for my survey of meta-programming in proof assistants (with Yannick Forster) is up on HAL.
+- My survey of meta-programming in proof assistants (with Yannick Forster) got accepted to ESOP 2026.
 
 [cambium]: https://cambium.inria.fr/
 [inria-paris]: https://www.inria.fr/fr/centre-inria-de-paris
