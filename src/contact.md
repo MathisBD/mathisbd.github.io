@@ -6,7 +6,7 @@ title: Contact
 
 <i class="fab fa-github" style="color:#4078c0"></i> &nbsp; [Github](https://github.com/MathisBD)
 
-<i class="fa-brands fa-orcid" style="color:#A6CE39;"></i> &nbsp; [ORCID](https://orcid.org/my-orcid?orcid=0009-0005-7817-9551)
+<i class="fa-brands fa-orcid" style="color:#A6CE39;"></i> &nbsp; [ORCID](https://orcid.org/0009-0005-7817-9551)
 
 <i class="fa fa-envelope" style="color:#555"></i> &nbsp; mathis [dot] bouverot [dash] dupuis [at] inria [dot] fr
 
